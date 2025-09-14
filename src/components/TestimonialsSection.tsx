@@ -1,18 +1,13 @@
 const testimonials = [
   {
-    quote: "This platform transformed how I approach learning. The personalized approach and beautiful interface make studying actually enjoyable.",
-    author: "Sarah Johnson",
-    role: "Student"
+    quote: "[Testimonial 1]",
+    author: "[Person 1]",
+    role: ""
   },
   {
-    quote: "I've tried many learning platforms, but this one stands out. The progress tracking and community features are game-changers.",
-    author: "Michael Chen",
-    role: "Professional"
-  },
-  {
-    quote: "The adaptive learning technology is incredible. It feels like having a personal tutor who understands exactly what I need.",
-    author: "Emily Rodriguez",
-    role: "Educator"
+    quote: "[Testimonial 2]",
+    author: "[Person 2]",
+    role: ""
   }
 ];
 
@@ -22,10 +17,10 @@ const TestimonialsSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="section-title text-foreground mb-4">
-            What Our Learners Say
+            Testimonials
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Join thousands of satisfied learners who have transformed their educational journey with our platform.
+            [Testimonials section description]
           </p>
         </div>
 

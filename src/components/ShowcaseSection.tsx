@@ -29,10 +29,10 @@ const ShowcaseSection = () => {
           {/* Content */}
           <div className="order-1 lg:order-2">
             <h2 className="section-title text-foreground mb-6">
-              Experience Learning Like Never Before
+              [Showcase headline]
             </h2>
             <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-              Our intuitive platform combines the best of modern design with powerful learning tools. Whether you're a beginner or an expert, our adaptive interface grows with you.
+              [Showcase descriptive text]
             </p>
             
             <div className="space-y-4 mb-8">

@@ -9,14 +9,14 @@ const HeroSection = () => {
           {/* Content */}
           <div className="text-center lg:text-left">
             <h1 className="hero-title text-foreground mb-6 fade-in-up">
-              Transform Your Learning Journey Today
+              Bebe Entende
             </h1>
             <p className="text-xl text-muted-foreground mb-8 leading-relaxed fade-in-up">
-              Discover a beautiful, intuitive platform designed to help you learn, grow, and achieve your goals with personalized content and engaging experiences.
+              Seu filho mais foda
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start fade-in-up">
               <Button size="lg" className="bg-accent hover:bg-accent/90 text-accent-foreground px-8 py-4 text-lg">
-                Start Learning Now
+                [Your CTA button text]
               </Button>
               <Button variant="outline" size="lg" className="px-8 py-4 text-lg">
                 Watch Demo

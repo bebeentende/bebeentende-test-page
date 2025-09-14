@@ -4,18 +4,18 @@ import feature3 from "@/assets/feature-3.jpg";
 
 const features = [
   {
-    title: "Personalized Learning",
-    description: "Adaptive content that adjusts to your learning pace and style, ensuring optimal comprehension and retention.",
+    title: "[Feature 1]",
+    description: "[Feature 1 description]",
     image: feature1
   },
   {
-    title: "Track Your Progress",
-    description: "Detailed analytics and insights help you understand your learning journey and celebrate milestones.",
+    title: "[Feature 2]",
+    description: "[Feature 2 description]",
     image: feature2
   },
   {
-    title: "Learn Together",
-    description: "Connect with a community of learners, share insights, and grow together in a supportive environment.",
+    title: "[Feature 3]",
+    description: "[Feature 3 description]",
     image: feature3
   }
 ];
@@ -26,10 +26,10 @@ const FeaturesSection = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="section-title text-foreground mb-4">
-            Everything You Need to Succeed
+            Features
           </h2>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            Our platform combines cutting-edge technology with proven learning methods to create an experience that's both effective and enjoyable.
+            [Features section description]
           </p>
         </div>
 
